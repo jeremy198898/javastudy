@@ -3,3 +3,4 @@ include 'service', 'webapp'
 */
 
 include 'java'
+include 'redis'

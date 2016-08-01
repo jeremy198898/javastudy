@@ -1,6 +1,6 @@
-import junit.Car;
+package junit;
+
 import org.junit.Test;
-import org.junit.runner.RunWith;
 
 /**
  * Created by jeremy on 2016/7/28.
